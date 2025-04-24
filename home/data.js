@@ -28,12 +28,19 @@ var APP_DATA = {
       ],
       "faceSize": 3328,
       "initialViewParameters": {
-        "yaw": -1.9595095940573835,
-        "pitch": -0.09515644628767461,
+        "yaw": -2.0527508390551876,
+        "pitch": -0.15265566047133916,
         "fov": 1.2599180821480807
       },
       "linkHotspots": [],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -2.0728807504724784,
+          "pitch": 0.07875905647998493,
+          "title": "紀念碑",
+          "text": "向英雄們致敬"
+        }
+      ]
     }
   ],
   "name": "紀念碑",
